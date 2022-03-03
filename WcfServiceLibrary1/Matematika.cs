@@ -115,7 +115,7 @@ namespace WcfServiceLibrary1
             }
         }
         /// <summary>
-        /// operasi koordinat
+        /// Operasi Koordinat
         /// </summary>
         /// <param name="a">angka pertama a dan b dalam operasi koordinat</param>
         /// <param name="b">angka kedua a dan b yang akan dijumlah dengan angka pertama a dan b</param>
